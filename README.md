@@ -63,3 +63,6 @@ Build automation server > builds your jobs and automates > lots of plugins
 ![image](https://user-images.githubusercontent.com/104793540/187895244-e8d9c5da-eb4b-471a-b555-6b502e94b0f1.png)
 
 ### Installing Prerequisites
+- create ec2 server
+- install docker (Before you install Docker Engine for the first time on a new host machine, you need to set up the Docker repository. Afterward, you can install and update Docker from the repository.)
+- https://docs.docker.com/engine/install/ubuntu/ - install docker engine 
